@@ -1,7 +1,8 @@
 <p align="left">
   <img src="./excel-logo.png?raw=true" width="120" alt="Excel Automation Tools Logo">
 </p>
-About
+About:
+
 I help Finance & Accounting teams eliminate manual work by designing and implementing automated data pipelines (ETL/ELT) and reusable tools, primarily in Excel.
 
 My solutions leverage:
@@ -15,7 +16,8 @@ Financial close and reporting
 Post-close financial analysis
  
 
-What I Do
+What I Do:
+
 With 20+ years of experience, I build (code) end-to-end automated workflows for what great majority continue to do mostly manually:
 
 Data Cleaning & Transformation (data wrangling)
@@ -30,8 +32,8 @@ Power BI
 Tableau
 DataRails
 
-Free Code Samples & Tutorials
-Explore real-world automation tools with step-by-step explanations.
+Free Code Samples & Tutorials for anyone to test real-world manual scenarios they most likely faced as time-consuming or cumbersome, with step-by-step explanations.
+
 
 Each example includes:
 
