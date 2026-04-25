@@ -9,7 +9,7 @@ My approach combines the flexibility of Excel with the power of structured data 
 
 VBA | Python | SQL | DAX
 
-to automate:
+to AUTOMATE:
 
 Accounting/Financial close cycles
 Large-scale data processing and cleanup
@@ -39,14 +39,15 @@ Streamlined processes with automated report generation and controlled distributi
 
 Executive Reporting & Dashboards
 
-Solutions built in:
-Excel
-Power BI
+Solutions built (CODED) in:
+
+Excel (VBA, Python, SQL)
+Power BI (DAX)
 Tableau
 DataRails
-Snowflake
+Snowflake (SQL, Python)
 
-Free Code Samples & Tutorials
+Free Code Samples & Tutorials (step-by-step)
 
 FREE DOWNLOAD and Explore real-world automation tools designed for Finance and Accounting use cases
 
@@ -58,10 +59,10 @@ Transparent code logic with step-by-step explanations
 
 Includes:
 
-⬇️ Downloadable tools (complete Excel files with mock data and reusable code)
-📄 Code walkthroughs (with detailed code descriptions)
-🎥 YouTube tutorials (so that you can learn along)
-💼 Personal Engagement and Consulting (for more complex, custom projects)
+⬇️ Downloadable tools (complete Excel files with mock data and reusable code) 
+📄 Code walkthroughs (with detailed code descriptions) 
+🎥 YouTube tutorials (so that you can learn along) 
+💼 Personal Engagement, Training and Consulting (for more complex, custom projects) 
 
 I work with:
 
