@@ -7,7 +7,7 @@ I help Finance & Accounting professionals eliminate manual work by building reus
 VBA, Python, SQL, DAX
   ... to Automate Big Data Analysis, Financial Close and Reporting and Financial "post-close" Analysis
 
-With 20+ years of experience, I design automated solutions for:
+With 20+ years of experience, I design AUTOMATED SOLUTIONS for:
 
 Data Cleanup
 Data Transformation
@@ -24,8 +24,5 @@ Feel Free to download some typical Accounting, Finance or Various type Data Exce
 
 Explore real-world automation tools with step-by-step explanations
 
-📫 Contact
-
-Available for consulting and custom projects.
-
+Available for consulting and custom projects
 🌐 Website: https://excelautomationtools.com
