@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="excel-logo.png" width="120" alt="Excel Automation Tools Logo"/>
+  <img src="./excel-logo.png?raw=true" width="120" alt="Excel Automation Tools Logo">
 </p>
 Hi,
 I help Finance & Accounting professionals eliminate manual work by building reusable automation tools mainly in Excel, using:
