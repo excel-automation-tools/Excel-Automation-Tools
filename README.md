@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="excel-logo.png" width="120" alt="Excel Automation Tools Logo"/>
+</p>
+Hi,
+I help Finance & Accounting professionals eliminate manual work by building reusable automation tools mainly in Excel, using:
 
-<!--
-**excel-automation-tools/Excel-Automation-Tools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VBA, Python, SQL, DAX
+  ... to Automate Big Data Analysis, Financial Close and Reporting and Financial "post-close" Analysis
 
-Here are some ideas to get you started:
+With 20+ years of experience, I design automated solutions for:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Cleanup
+Data Transformation
+Data Analytics
+Data Reconciliations
+Financial Close Processes
+Financial Reporting Dashboards (Excel, PowerBI, Tableu, DataRails)
+
+
+Process Automation (complete ETL/ETA data workflows with all necessary APIs to connect all systems to Excel and all Reporting Dashboards)
+
+Feel Free to download some typical Accounting, Finance or Various type Data Excel Files with the Code Samples & Tutorials
+(The tutorials are recorded on my YouTube Channel - tutorial links available with each free file)
+
+Explore real-world automation tools with step-by-step explanations
+
+📫 Contact
+
+Available for consulting and custom projects.
+
+🌐 Website: https://excelautomationtools.com
