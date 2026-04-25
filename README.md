@@ -1,26 +1,45 @@
 <p align="left">
   <img src="./excel-logo.png?raw=true" width="120" alt="Excel Automation Tools Logo">
 </p>
-Hi,
-I help Finance & Accounting Departments and Professionals ELIMINATE MANUAL WORK by building reusable automation tools mainly in Excel, using:
+About
+I help Finance & Accounting teams eliminate manual work by designing and implementing automated data pipelines (ETL/ELT) and reusable tools, primarily in Excel.
 
-VBA, Python, SQL, DAX
-  ... to Automate Big Data Analysis, Financial Close and Reporting and Financial "post-close" Analysis
+My solutions leverage:
 
-With 20+ years of experience, I design AUTOMATED SOLUTIONS for:
+VBA | Python | SQL | DAX
 
-Data Cleanup
-Data Transformation
-Data Analytics
-Data Reconciliations
-Data Processing (complete ETL/ELT workflows with automation, scheduling and all needed APIs) to connect all systems to Excel and all Reporting Dashboards
-Financial Close Processes with Automatic Custom Report Distributions
-Financial Reporting Dashboards (Excel, PowerBI, Tableu, DataRails)
+to automate:
 
-Feel Free to download some typical Accounting, Finance or Various type Data Excel Files with the Code Samples & Tutorials
-(The tutorials are recorded on my YouTube Channel - tutorial links available with each free file)
+Large-scale data analysis
+Financial close and reporting
+Post-close financial analysis
+ 
 
-Explore real-world automation tools with step-by-step explanations
+What I Do
+With 20+ years of experience, I build (code) end-to-end automated workflows for what great majority continue to do mostly manually:
 
-Available for consulting and custom projects
+Data Cleaning & Transformation (data wrangling)
+Data Integration & Processing across multiple systems
+Automated Reconciliations and validation workflows
+ETL/ELT Pipelines with scheduling, orchestration, and API integrations
+Financial Close Automation with custom report generation and distribution
+
+Reporting & Dashboards in:
+Excel
+Power BI
+Tableau
+DataRails
+
+Free Code Samples & Tutorials
+Explore real-world automation tools with step-by-step explanations.
+
+Each example includes:
+
+⬇️ Downloadable Excel automation tool (.xlsm)
+📄 Code walkthrough (PDF)
+🎥 YouTube tutorial explaining the logic and implementation
+
+These samples demonstrate how to build scalable, reusable automation solutions for Finance and Accounting workflows.
+
+Available for consulting and custom automation projects
 🌐 Website: https://excelautomationtools.com
