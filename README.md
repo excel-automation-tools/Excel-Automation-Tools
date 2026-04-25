@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="excel-logo.png" width="120" alt="Excel Automation Tools Logo"/>
 </p>
 Hi,
